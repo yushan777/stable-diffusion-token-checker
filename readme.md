@@ -4,6 +4,8 @@ Inspired and adapted from scripts and ideas by 2kpr
 
 https://www.reddit.com/r/StableDiffusion/comments/zc65l4/rare_tokens_for_dreambooth_training_stable/
 
+https://arxiv.org/pdf/2208.12242
+
 This will produce a 3x3 grid of images prompted with a given token from a list.  You can also include class words so that each token will be paired with the class and also added to the list.
 
 The purpose of this notebook is to check what a given token / token+class pair might generate from the model you are planning to train on. It will also show a breakdown of how your token is tokenized.   
@@ -19,4 +21,4 @@ Output will include a breakdown of your token - i.e. so that long, convoluted to
 
 ![token1](https://github.com/yushan777/stable-diffusion-token-checker/raw/main/resources/Unknown-2.jpeg)
 
-https://arxiv.org/pdf/2208.12242
+
