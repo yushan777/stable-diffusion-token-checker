@@ -1,8 +1,9 @@
 <table style="width:100%" text-align:center >
   <tr>
     <td>
-      <a target="_blank" https://github.com/yushan777/stable-diffusion-token-checker/blob/main/sddb_token_checker.ipynb">
-      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="250"/></a>
+      <a target="_blank" href="https://colab.research.google.com/github/yushan777/stable-diffusion-token-checker/blob/main/sddb_token_checker.ipynb">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+      </a>
     </td>
   </tr>
 
