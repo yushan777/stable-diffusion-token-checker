@@ -1,3 +1,13 @@
+<table style="width:100%" text-align:center >
+  <tr>
+    <td>
+      <a target="_blank" https://github.com/yushan777/stable-diffusion-token-checker/blob/main/sddb_token_checker.ipynb">
+      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="250"/></a>
+    </td>
+  </tr>
+
+</table>
+
 # Stable Diffusion Dreambooth Token Checker
 
 Inspired and adapted from scripts and ideas by 2kpr
