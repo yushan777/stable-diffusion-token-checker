@@ -1,13 +1,18 @@
-<table style="width:100%" text-align:center >
+
+<table style="width:100%">
   <tr>
     <td>
       <a target="_blank" href="https://colab.research.google.com/github/yushan777/stable-diffusion-token-checker/blob/main/sddb_token_checker.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="250"/>
       </a>
     </td>
+    <td>
+      Join The <a href="https://discord.gg/wNNs2JNF7G">Stable Diffusion Dreambooth Discord Server</a>d
+    </td>
   </tr>
-
 </table>
+
+
 
 # Stable Diffusion Dreambooth Token Checker
 
