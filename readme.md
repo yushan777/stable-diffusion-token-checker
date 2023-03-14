@@ -30,6 +30,8 @@ Output will include a breakdown of your token - i.e. so that long, convoluted to
 * If outputs show a consistent theme, then the token you are using probably has strong associations in the model. (worse)
 * If outputs appear random then it will probably have weaker associations in the model. (better)
 ---
-![token1](https://github.com/yushan777/stable-diffusion-token-checker/raw/main/resources/Unknown-2.jpeg)
+![supercalifragilisticexpialidocious](https://github.com/yushan777/stable-diffusion-token-checker/raw/main/images/supercalifragilisticexpialidocious.jpg)
 ---
-![token2](https://github.com/yushan777/stable-diffusion-token-checker/raw/main/resources/Unknown-3.jpeg)
+![sks](https://github.com/yushan777/stable-diffusion-token-checker/raw/main/images/sks.jpg)
+---
+![sks-woman](https://github.com/yushan777/stable-diffusion-token-checker/raw/main/images/sks woman.jpg)
