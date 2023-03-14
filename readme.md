@@ -11,24 +11,22 @@
 
 # Stable Diffusion Dreambooth Token Checker
 
-Inspired and adapted from scripts and ideas by 2kpr
+Adapted from scripts and ideas by 2kpr
 
 https://www.reddit.com/r/StableDiffusion/comments/zc65l4/rare_tokens_for_dreambooth_training_stable/
 
 https://arxiv.org/pdf/2208.12242
 
-The purpose of this notebook is to check what a given token / token+class pair might generate from the model you are planning to train on. It will also show a breakdown of how your token is tokenized.   
+Purpose: to check what a given token / token+class pair might generate from the model you are planning to train on. It will also show a breakdown of how your token is tokenized into subwords. So that long, convoluted token you came up with might actually be broken up into subtokens which are very common words themselves and so having a very strong prior association in the model.
 
-A 3x3 grid of images will be generated prompted with a given token from a list.  You can also include class words so that each token will be paired with the selected classes and also added to the list.
-
-You can add a series of token words (comma separated). 
-
-Output will include a breakdown of your token - i.e. so that long, convoluted token you came up with might actually be broken up into subtokens, and having a very strong prior association in the model. 
+A 3x3 grid of images will be generated from prompts using token(s) you specify.  You can also include class words so that each token will be paired with the selected class(es) which will also be added to the list.
 
 ## What to look for:
 
-* If outputs show a consistent theme, then the token you are using probably has strong associations in the model. (worse)
+* If outputs show a consistent theme, then the token you are using probably already has strong associations in the model. (not ideal)
 * If outputs appear random then it will probably have weaker associations in the model. (better)
+
+There is no rule to say you can't just use someone's regular name. You can use `tomcruise` if you want but you'll just end up pulling weights associated with him to the subject you are training and erasing old tomcruise from the model's memory. 
 
 ## Just 4 Main Cells to run.  Only 3 and 4 require any user input. 
 ![cells](https://github.com/yushan777/stable-diffusion-token-checker/raw/main/images/cells.jpg)
