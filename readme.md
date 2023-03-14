@@ -19,7 +19,7 @@ https://arxiv.org/pdf/2208.12242
 
 The purpose of this notebook is to check what a given token / token+class pair might generate from the model you are planning to train on. It will also show a breakdown of how your token is tokenized.   
 
-A 3x3 grid of images will be generated prompted with a given token from a list.  You can also include class words so that each token will be paired with the class and also added to the list.
+A 3x3 grid of images will be generated prompted with a given token from a list.  You can also include class words so that each token will be paired with the selected classes and also added to the list.
 
 You can add a series of token words (comma separated). 
 
@@ -29,7 +29,12 @@ Output will include a breakdown of your token - i.e. so that long, convoluted to
 
 * If outputs show a consistent theme, then the token you are using probably has strong associations in the model. (worse)
 * If outputs appear random then it will probably have weaker associations in the model. (better)
+
+## Just 4 Main Cells to run.  Only 3 and 4 require any user input. 
+![cells](https://github.com/yushan777/stable-diffusion-token-checker/raw/main/images/cells.jpg)
+
 ---
+## Some Example Outputs
 ![supercalifragilisticexpialidocious](https://github.com/yushan777/stable-diffusion-token-checker/raw/main/images/supercalifragilisticexpialidocious.jpg)
 ---
 ![sks](https://github.com/yushan777/stable-diffusion-token-checker/raw/main/images/sks.jpg)
