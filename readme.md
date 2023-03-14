@@ -7,7 +7,7 @@
       </a>
     </td>
     <td>
-      Join The <a href="https://discord.gg/wNNs2JNF7G">Stable Diffusion Dreambooth Discord Server</a>d
+      Join The <a href="https://discord.gg/wNNs2JNF7G">Stable Diffusion Dreambooth Discord Server</a>
     </td>
   </tr>
 </table>
