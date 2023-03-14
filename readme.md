@@ -50,3 +50,6 @@ A 3x3 grid of images will be generated from prompts using token(s) you specify. 
 ---
 ![http-person](https://github.com/yushan777/stable-diffusion-token-checker/raw/main/images/http-person.jpg)
 ---
+![rune](https://github.com/yushan777/stable-diffusion-token-checker/raw/main/images/rune.jpg)
+---
+![rune-person](https://github.com/yushan777/stable-diffusion-token-checker/raw/main/images/rune-person.jpg)
