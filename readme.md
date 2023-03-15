@@ -19,7 +19,7 @@
 Adapted from scripts and ideas by 2kpr
 
 https://www.reddit.com/r/StableDiffusion/comments/zc65l4/rare_tokens_for_dreambooth_training_stable/
-https://github.com/2kpr/dreambooth-tokens
+https://github.com/2kpr/dreambooth-tokens<br>
 https://arxiv.org/pdf/2208.12242
 
 Purpose: to check what a given token / token+class pair might generate from the model you are planning to train on. It will also show a breakdown of how your token is tokenized into subwords. So that long, convoluted token you came up with might actually be broken up into subtokens which are very common words themselves and so having a very strong prior association in the model.
