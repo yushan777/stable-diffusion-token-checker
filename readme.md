@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-Medium Article : [Good Token, Bad Token](https://medium.com/@yushantripleseven/good-token-bad-token-1d66891b0b0a#9c55)
+Medium Article : [Good Token, Bad Token](https://medium.com/@yushantripleseven/good-token-bad-token-1d66891b0b0a)
 
 # Stable Diffusion Dreambooth Token Checker
 
